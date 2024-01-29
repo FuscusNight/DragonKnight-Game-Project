@@ -5,4 +5,4 @@ If i do continue work on it, i wanted to add in pickuable power ups/items/weapon
 that the player could give head pats to and in return the chest the dragon carries would open up and reward the player with a new item/weapon.
 Plus some bug fixes , specifically related to some wonkiness happening with my hit/collision detections regarding the tiled map's rectangle objects from Tiled.
 
-Feel free to use the code, modify it and do whatever you'd like with it if you so desire to use it. Just mention where you got it from would be appriciated .
+Feel free to use the code, modify it and do whatever you'd like with it if you so desire to use it. Just mention where you got it from would be appreciated .
