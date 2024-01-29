@@ -3,6 +3,6 @@ I am uploading here for preservation sake, i might potentially work on this more
 
 If i do continue work on it, i wanted to add in pickuable power ups/items/weapon, an XP system that lets you pick a few random modifiers each level up similar to other Auto-Shooters like Vampire Surviors and implement an NPC pet dragon that spawns after a set time 
 that the player could give head pats to and in return the chest the dragon carries would open up and reward the player with a new item/weapon.
-+ fix bugs , specifically related to some wonkiness happening with my hit detections.
+Plus some fix bugs , specifically related to some wonkiness happening with my hit/collision detections regarding the tiled map's rectangle objects from Tiled.
 
 Feel free to use the code, modify it and do whatever you'd like with it if you so desire to use it. Just mention where you got it from would be appriciated .
