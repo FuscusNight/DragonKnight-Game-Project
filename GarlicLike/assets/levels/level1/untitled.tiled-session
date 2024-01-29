@@ -1,0 +1,152 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/untitled.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Bones.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Buildings.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Bones.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Buildings.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Fences.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Graveyard.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/RoadPieces.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Shadows.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Statues.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Trees.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Bones.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Buildings.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Fences.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Grass.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Graveyard.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/RoadPieces.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Shadows.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Statues.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/Trees.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/untitled.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2966,
+                "y": 1484.6666666666665
+            }
+        },
+        "Fences.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Grass.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Graveyard.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "RoadPieces.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Shadows.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Statues.tsx": {
+            "scaleInDock": 1
+        },
+        "Trees.tsx": {
+            "scaleInDock": 1
+        },
+        "untitled.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1603,
+                "y": 1599.5
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/light/OneDrive/Desktop/ProjectFilesGarlic/level1",
+    "last.externalTilesetPath": "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1",
+    "last.imagePath": "C:/Users/light/OneDrive/Desktop/ProjectFilesGarlic/FreeGraveyardTileSet/2 Objects/8 Shadow",
+    "map.height": 100,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 100,
+    "openFiles": [
+        "untitled.tmx",
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/untitled.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "untitled.tmx",
+        "C:/Users/light/OneDrive/Desktop/GithubObjectPrograming/oo-grupp-4/GarlicLike/assets/levels/level1/untitled.tmx",
+        "1.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 5,
+        "width": 3
+    },
+    "tileset.type": 1
+}
