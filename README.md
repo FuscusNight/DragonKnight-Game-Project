@@ -1,8 +1,16 @@
-A simple 2D Auto-Shooter , it was made for a OOP course final in my IT University of January 2024. The project was a solo endeavor, worked on it for approx all of January as much as i could as other classes and work also existed that ate my time. 
-I am uploading here for preservation sake, i might potentially work on this more once i am more free in the future and not burdoned with other University work or my part-time job.
+# 🐉 Dragon Knight 🐉
 
-If i do continue work on it, i wanted to add in pickuable power ups/items/weapon, an XP system that lets you pick a few random modifiers each level up similar to other Auto-Shooters like Vampire Surviors and implement an NPC pet dragon that spawns after a set time 
-that the player could give head pats to and in return the chest the dragon carries would open up and reward the player with a new item/weapon.
-Plus some bug fixes , specifically related to some wonkiness happening with my hit/collision detections regarding the tiled map's rectangle objects from Tiled.
+### Overview
+**Dragon Knight** is a simple 2D auto-shooter created as a solo project for my **OOP course final** at **IT University** in January 2024. I worked on it throughout January, balancing development with other classes and part-time work.
 
-Feel free to use the code, modify it and do whatever you'd like with it if you so desire to use it. Just mention where you got it from would be appreciated .
+I’m sharing it here for preservation, with the possibility of continuing development when I have more free time away from other university commitments and my part-time job.
+
+### Future Plans
+If I do revisit this project, I’d like to enhance it with:
+- **Power-ups and Items**: Collectible power-ups, items, and new weapons.
+- **XP System**: A leveling system where each level-up offers random modifiers, inspired by other auto-shooters like *Vampire Survivors*.
+- **NPC Pet Dragon**: An NPC pet dragon that appears after a set time, offering interaction and rewards. Players could “head pat” the dragon to open a chest it carries, granting items or weapons.
+- **Bug Fixes**: Improvements to hit/collision detection, particularly with the Tiled map's rectangle objects, to fix some known wonkiness.
+
+### Usage
+Feel free to use, modify, or build upon this code however you wish! A mention of where you found it would be appreciated. 😊
