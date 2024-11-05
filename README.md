@@ -13,6 +13,7 @@ Assets that were used is a mixture of free art assets found online and some AI I
 ## How to run :
 # Open the project in IntellJ IDEA (or any other preffered coding software)
 #Then simply start Lwjgl3Launcher
+
 ![image](https://github.com/user-attachments/assets/f9b210b4-1493-4240-a1cf-7d9c9d519c82)
 
 ![image](https://github.com/user-attachments/assets/70958ae1-eef2-42b8-ae7d-bad1cc953c77)
