@@ -1,11 +1,24 @@
 # 🐉 Dragon Knight 🐉
 
+
+![dragonKnightTitleMenuSplash](https://github.com/user-attachments/assets/6e5744b9-27e0-41c6-8d87-09ba47e0e71b)
+
 ### Overview
 **Dragon Knight** is a simple 2D auto-shooter created as a solo project for my **OOP course final** at **IT University** in January 2024. I worked on it throughout January, balancing development with other classes and part-time work.
 
-I’m sharing it here for preservation, with the possibility of continuing development when I have more free time away from other university commitments and my part-time job.
+I’m sharing it here for preservation, with the possibility of continuing development when I have more free time away from other university commitments and my part-time job plus my own interest to continue this.
 
-### Future Plans
+Assets that were used is a mixture of free art assets found online and some AI Image Generator ones as my artistic skills are rather lacking.
+
+## How to run :
+# Open the project in IntellJ IDEA (or any other preffered coding software)
+#Then simply start Lwjgl3Launcher
+![image](https://github.com/user-attachments/assets/f9b210b4-1493-4240-a1cf-7d9c9d519c82)
+
+![image](https://github.com/user-attachments/assets/70958ae1-eef2-42b8-ae7d-bad1cc953c77)
+
+
+### Potential Future Plans 
 If I do revisit this project, I’d like to enhance it with:
 - **Power-ups and Items**: Collectible power-ups, items, and new weapons.
 - **XP System**: A leveling system where each level-up offers random modifiers, inspired by other auto-shooters like *Vampire Survivors*.
