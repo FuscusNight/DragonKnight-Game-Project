@@ -4,7 +4,7 @@
 ![dragonKnightTitleMenuSplash](https://github.com/user-attachments/assets/6e5744b9-27e0-41c6-8d87-09ba47e0e71b)
 
 ### Overview
-**Dragon Knight** is a simple 2D auto-shooter similar to Vampire Survivors created as a solo project for my **OOP course final** at **IT University** in January 2024. I worked on it throughout January, balancing development with other classes and part-time work.
+**Dragon Knight** is a simple 2D auto-shooter similar to Vampire Survivors created as a solo project for my **OOP course final** at **HÅ University** in January of 2024. I worked on it throughout January, balancing development with other classes and part-time work.
 
 I’m sharing it here for preservation, with the possibility of continuing development when I have more free time away from other university commitments and my part-time job plus my own interest to continue this.
 
